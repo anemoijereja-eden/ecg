@@ -102,3 +102,4 @@ chandragen.db
 
 # dev container
 .devcontainer
+managed_components
